@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/justteen/bgjago",
+  "repository": "https://github.com/justteen/gmnger",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -17,7 +17,7 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "1702492160:AAGxBEW_2k12z13FIaUJ-hN8t0HXjHKhOKM"
+      "value": "1898295865:AAEs7l1E-8YNQLCyvGs_6vkWh3j7U2n2g1Y"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -34,7 +34,7 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1001434910618"
+      "value": "-1001540750870"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
