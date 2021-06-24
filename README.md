@@ -6,11 +6,11 @@
 
 Modul telegram menggunakan python dengan sqlalchemy database.
 
-#Contoh dari hasil [GroupManager](https://t.me/bangjagogmbot).
+# Contoh dari hasil [GroupManager](https://t.me/bangjagogmbot).
 
-#Alternatif, [find me on telegram](https://t.me/psycho_syridwan)! (untuk semua pertanyaan kalian, semoga dapat membantu.)
+# Alternatif, [find me on telegram](https://t.me/psycho_syridwan)! (untuk semua pertanyaan kalian, semoga dapat membantu.)
 
-#Diskusi
+# Diskusi
 
 [Join Channel](https://t.me/supbuz)
 
