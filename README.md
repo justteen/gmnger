@@ -2,7 +2,7 @@
 [![BUZZ LOGO](https://telegra.ph/file/2414586c8ed390b968ee9.jpg)](http://t.me/BuzzManagerBot)
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/justteen/bgjago)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/justteen/gmnger)
 
 Modul telegram menggunakan python dengan sqlalchemy database.
 
