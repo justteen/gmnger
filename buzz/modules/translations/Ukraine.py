@@ -1,4 +1,4 @@
-from haruka import dispatcher
+from buzz import dispatcher
 
 RUN_STRINGS = (
     "Куди ти зібрався?",
