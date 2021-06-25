@@ -1,5 +1,3 @@
-from buzz import dispatcher
-
 RUN_STRINGS = (
     "Куди ти зібрався?",
     "А? Шо? Вони пішли?"
