@@ -1,5 +1,3 @@
-from haruka import dispatcher
-
 RUN_STRINGS = (
     "Куда ты собрался?",
     "А? что? они ушли?",
