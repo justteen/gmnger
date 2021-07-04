@@ -33,7 +33,7 @@ Made from the source code of [RIDWAN](t.me/psycho_syridwan)
 
 Klik /help untuk bantuan dalam pengoperasian bot.
 
- Tambahkan saya ke group. Klik [🤖 disini](http://t.me/BuzzManagerBot?startgroup=true).
+ Tambahkan saya ke group. Klik [🤖 disini](http://t.me/WOFrelationsBot?startgroup=true).
 """
 
 TECHNO_IMG = "https://telegra.ph/file/2414586c8ed390b968ee9.jpg"
