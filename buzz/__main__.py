@@ -20,20 +20,20 @@ from buzz.modules.helper_funcs.misc import paginate_modules
 from buzz.modules.translations.strings import tld, tld_help 
 from buzz.modules.connection import connected
 
-PM_START = """Hello {}, Nama Saya {}!
+PM_START = """
 
-sungguh berat bukan? untuk memanage grup anda. Mari saya bantu
+Hello {}, Aku {}!
+❁═════════════════════❁
+Aku akan membantu untuk meringankan, beban kalian. Untuk memanage GC sesuka kamu 🤗
 
-Saya group manager bot dan Anti-spam untuk grup anda
+Dibuat oleh BUZZ TEAM
+[😎 𝐑𝐈𝐃𝐖𝐀𝐍](t.me/psycho_syridwan)
+[😊 𝐉𝐄𝐒𝐘](t.me/OJssyy)
 
-Activasi Anti-spam pelindung dengan cara : 
-/antispam on 
+Klik [/help] untuk bantuan dalam pengoperasian bot.
 
-Made from the source code of [RIDWAN](t.me/psycho_syridwan)
-
-Klik /help untuk bantuan dalam pengoperasian bot.
-
- Tambahkan saya ke group. Klik [🤖 disini](http://t.me/BuzzManagerBot?startgroup=true).
+Tambahkan saya ke group. Klik [🤖 disini](http://t.me/fijeyanaBot?startgroup=true).
+❁═════════════════════❁
 """
 
 TECHNO_IMG = "https://telegra.ph/file/2414586c8ed390b968ee9.jpg"
