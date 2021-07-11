@@ -32,7 +32,6 @@ Dibuat oleh BUZZ TEAM
 
 Klik [/help] untuk bantuan dalam pengoperasian bot.
 
-Tambahkan saya ke group. Klik [🤖 disini](http://t.me/fijeyanaBot?startgroup=true).
 ❁═════════════════════❁
 """
 
@@ -154,7 +153,7 @@ def send_start(bot, update):
     keyboard = [[InlineKeyboardButton(text="Language", callback_data="set_lang_")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Reporting", callback_data="cntrl_panel_M"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
-
+    keyboard += [[InlineKeyboardButton("🤖 add Aku", url="http://t.me/fijeyanaBot?startgroup=true")]]
     update.effective_message.reply_photo(TECHNO_IMG, PM_START.format(escape_markdown(first_name), bot.first_name), reply_markup=InlineKeyboardMarkup(keyboard), disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
 
 
