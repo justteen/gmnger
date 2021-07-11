@@ -36,7 +36,7 @@ Tambahkan saya ke group. Klik [🤖 disini](http://t.me/fijeyanaBot?startgroup=t
 ❁═════════════════════❁
 """
 
-TECHNO_IMG = "https://telegra.ph/file/2414586c8ed390b968ee9.jpg"
+TECHNO_IMG = "https://telegra.ph/Annabot-07-11"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
@@ -155,7 +155,7 @@ def send_start(bot, update):
     keyboard += [[InlineKeyboardButton(text="🛠 Reporting", callback_data="cntrl_panel_M"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
 
-    update.effective_message.reply_text(PM_START.format(escape_markdown(first_name), bot.first_name), reply_markup=InlineKeyboardMarkup(keyboard), disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
+    update.effective_message.reply_text(TECHNO_IMG, PM_START.format(escape_markdown(first_name), bot.first_name), reply_markup=InlineKeyboardMarkup(keyboard), disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
 
 
 def control_panel(bot, update):
