@@ -28,14 +28,15 @@ Aku akan membantu untuk meringankan, beban kalian. Untuk memanage GC sesuka kamu
 
 Dibuat oleh BUZZ TEAM
 [😎 𝐑𝐈𝐃𝐖𝐀𝐍](t.me/psycho_syridwan)
-[😊 𝐉𝐄𝐒𝐘](t.me/OJssyy)
+[😊 Winie](t.me/CitraAyuWinieF)
+[☺️ Nur](t.me/xnafrlzy)
 
 Klik [/help] untuk bantuan dalam pengoperasian bot.
 
 ❁═════════════════════❁
 """
 
-TECHNO_IMG = "https://telegra.ph/Annabot-07-11"
+TECHNO_IMG = "https://telegra.ph/file/dc615e8ae5d9a78287bef.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
