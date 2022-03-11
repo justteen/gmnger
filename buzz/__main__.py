@@ -36,7 +36,7 @@ Klik [/help] untuk bantuan dalam pengoperasian bot.
 ❁═════════════════════❁
 """
 
-TECHNO_IMG = ""
+TECHNO_IMG = "https://telegra.ph/file/dc615e8ae5d9a78287bef.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
