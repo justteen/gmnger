@@ -8,7 +8,7 @@ class Config(object):
     OWNER_USERNAME = "psycho_syridwan"
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = 'postgres://omijxjaa:r27--XeyA7A6Iv4rljAs4WRr68rH1zpw@satao.db.elephantsql.com/omijxjaa'  # needed for any database modules
     MESSAGE_DUMP = '-1001540750870'  # needed to make sure 'save from' messages persist
     LOAD = []
     NO_LOAD = ['translation', 'sed']
