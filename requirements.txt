@@ -28,3 +28,9 @@ alphabet_detector
 psutil
 nekos.py
 cachetools
+tldextract
+PyYAML
+pyowm
+wikipedia
+bleach
+markdown2
